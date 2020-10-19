@@ -12,4 +12,4 @@ class teacher extends student{
         }
 }
     
-let teacher1= new student('96432','sadi','sadi@orange.com','0777788888','800','[English, Arabic, Math, Science]');
+let teacher1= new student(96432,'sadi','sadi@orange.com',0777788888,800,'[English, Arabic, Math, Science]');
